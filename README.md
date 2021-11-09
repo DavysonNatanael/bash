@@ -1,10 +1,10 @@
-# bash
-Scripts em BASH para o dia a dia
+# Sessão de Scripts em BASH
 
-## Criar pasta para cada dia do ano organizado por mês.sh
-Script para criar uma pasta para cada dia do mês, organizando dentro de pastas de cada mês.
+## 01. Criar pasta para cada dia do ano organizado por mês.sh
+- DESCRIÇÃO: Script para criar uma pasta para cada dia do mês, organizando dentro de pastas de cada mês.
+- OBJETIVO: organização de arquivos criados diariamente. 
 
-As pastas dos meses são nomeadas com o ano vigente, numero que repsenta o mês e o nome do mês.
+As pastas dos meses são nomeadas com o ano vigente, numero que representa o mês e o nome do mês.
 Exemplo: 2021-01.janeiro
 
 As pastas dos dias são nomeadas com o dia do mês e dia da semana.
